@@ -2,7 +2,7 @@
 int main(){
 	char str1[80],str2[80];
 	int l,i,j;
-	printf("----------------\nPATTERN MATCHING\n================\n\n");
+	printf("\nPATTERN MATCHING\n");
 	printf("Enter the first string : ");
 	gets(str1);
 	printf("Enter the second string: ");
